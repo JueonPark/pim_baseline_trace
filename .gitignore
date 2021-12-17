@@ -1,0 +1,4 @@
+*.trace
+*.traceg
+*.err
+*.out
